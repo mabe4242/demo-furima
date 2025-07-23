@@ -44,9 +44,9 @@
 }
 
 .form__error {
-  height: 20px;
-  color: #ff0000;
-  text-align: left;
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
 }
 
 .form__button-submit {
@@ -66,11 +66,10 @@
 }
 
 .register__link {
-  margin-top: 20px;
-  text-align: center;
-  text-decoration: none;
+    margin-top: 20px;
+    text-align: center;
 }
 
 .register__button-submit {
-  text-decoration: none;
+    text-decoration: none;
 }
